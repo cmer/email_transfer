@@ -1,0 +1,9 @@
+= email_transfer.py
+
+This script will transfer emails from one server (POP or IMAP) to another (IMAP) with the option of deleting the messages on the source server.
+
+For IMAP source servers, only the INBOX will be transfered.
+
+== COPYRIGHT
+
+Copyright (c) 2007 {Carl Mercier}[http://carlmercier.com]. See LICENSE for details.
